@@ -1,14 +1,19 @@
 This repository contains the source code and documentation for my personal portfolio website, showcasing my expertise in cybersecurity, database development, networking, and IoT systems. The site highlights my background, technical skills, professional experience, and key projects, with links to GitHub repositories and a downloadable resume.
 
-🚀 Features
-Home: Introduction and personal branding.
+This project is a personal portfolio site designed to showcase your work, skills, and projects in a clean, professional format. The site is hosted on Convex.app and currently displays a loading screen with the title Chef. It serves as the foundation for a portfolio that can be expanded with interactive features, project links, and personal branding.
 
-About: Education, skills, and professional background.
+ Features
+Portfolio showcase: A central hub for your projects and achievements.
 
-Projects: Detailed case studies with GitHub links.
+Custom domain hosting: Powered by Convex.app for fast deployment.
 
-Resume: Viewable and downloadable PDF/HTML.
+Minimalist design: Simple loading screen with clear branding.
 
-Contact: Form and direct links (GitHub, LinkedIn, Email).
+Expandable structure: Ready to integrate resumes, GitHub links, or interactive tools.
 
-QR Code: Quick access to portfolio and resume.
+Tech Stack
+Frontend: HTML, CSS, JavaScript (expandable for frameworks like React or Vue).
+
+Backend/Hosting: Convex.app serverless platform.
+
+Version Control: GitHub for source code management.
